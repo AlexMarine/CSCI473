@@ -1,0 +1,7 @@
+D:\class\CSCI\CSCI473\Assign0\Assign0\bin\Debug\Assign0.exe.config
+D:\class\CSCI\CSCI473\Assign0\Assign0\bin\Debug\Assign0.exe
+D:\class\CSCI\CSCI473\Assign0\Assign0\bin\Debug\Assign0.pdb
+D:\class\CSCI\CSCI473\Assign0\Assign0\obj\Debug\Assign0.csprojAssemblyReference.cache
+D:\class\CSCI\CSCI473\Assign0\Assign0\obj\Debug\Assign0.csproj.CoreCompileInputs.cache
+D:\class\CSCI\CSCI473\Assign0\Assign0\obj\Debug\Assign0.exe
+D:\class\CSCI\CSCI473\Assign0\Assign0\obj\Debug\Assign0.pdb
